@@ -1,6 +1,7 @@
 data/
 epochs/
 results/
+*.svg
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,windows,linux,macos,visualstudiocode,pycharm,jetbrains
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,windows,linux,macos,visualstudiocode,pycharm,jetbrains
